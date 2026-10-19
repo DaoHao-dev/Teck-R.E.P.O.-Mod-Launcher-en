@@ -22,7 +22,6 @@ You can download the latest version of the launcher here:
 > ⚠️ **Note regarding Windows Defender:** 
 > Direct distribution of the `.exe` file is currently flagged by Microsoft Defender as a false positive (common for PyInstaller/un-signed executables). If your antivirus blocks it, you can safely allow it or check the source code to build it yourself.
 
-> **Security status: under investigation.** Microsoft Defender flagged `Teck-PS1-VI-EN.exe` as `Trojan:Win32/Bearfoos.A!ml`. EXE distribution is paused. The detection has not been confirmed as either malware or a false positive. Read the [security notice](SECURITY_NOTICE.md) before using or building this project.
 
 **Teck** is a Windows mod launcher for R.E.P.O., with an interface inspired by the original PlayStation. Open the lid to reveal a spinning disc, and use the console's buttons to install mods, adjust settings, and launch the game.
 
