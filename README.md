@@ -15,13 +15,15 @@
 ---
 ## 📥 Download
 
+## 📥 Download
+
 You can download the latest version of the launcher here:
 
-* **[Teck-PS1-VI-EN.exe](https://github.com/DaoHao-dev/Teck-R.E.P.O.-Mod-Launcher-en/release-files/Teck-PS1-VI-EN.exe)**
+* **[Download Teck-PS1-VI-EN.exe](https://github.com/DaoHao-dev/Teck-R.E.P.O.-Mod-Launcher-en/raw/main/release-files/Teck-PS1-VI-EN.exe)**
+* [Download SHA256 Checksum File](https://github.com/DaoHao-dev/Teck-R.E.P.O.-Mod-Launcher-en/raw/main/release-files/Teck-PS1-VI-EN-SHA256.txt)
 
 > ⚠️ **Note regarding Windows Defender:** 
-> Direct distribution of the `.exe` file is currently flagged by Microsoft Defender as a false positive (common for PyInstaller/un-signed executables). If your antivirus blocks it, you can safely allow it or check the source code to build it yourself.
-
+> Direct distribution of the `.exe` file is currently flagged by Microsoft Defender as a false positive (common for PyInstaller-packed or unsigned executables). If your antivirus blocks it, you can safely allow it to run or inspect the source code to build it yourself.
 
 **Teck** is a Windows mod launcher for R.E.P.O., with an interface inspired by the original PlayStation. Open the lid to reveal a spinning disc, and use the console's buttons to install mods, adjust settings, and launch the game.
 
